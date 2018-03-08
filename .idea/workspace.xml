@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97c72e6c-455b-4103-86c1-d9febfab2322" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_rpn.py" afterPath="$PROJECT_DIR$/test_rpn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rpn.py" afterPath="$PROJECT_DIR$/rpn.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_rpn.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_rpn.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_rpn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rpn.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rpn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rpn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/rpn.py" />
         <option value="$PROJECT_DIR$/test_rpn.py" />
+        <option value="$PROJECT_DIR$/rpn.py" />
       </list>
     </option>
   </component>
@@ -172,14 +172,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_rpn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -187,6 +179,14 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
